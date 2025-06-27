@@ -1,0 +1,24 @@
+// <?php
+// $x = 10;
+// $y = 20;
+// echo $x + $y;
+// ?>
+
+
+
+// <?php
+// $marks = array("Piyush" , "Aryan" , "Rahul");
+
+// echo $marks[1]; 
+// ?>
+
+
+<?php 
+
+$marks = array(10, 20, 30, 40, 50);
+
+for ($x = 0; $x <= 4; $x++) {
+  echo $marks[$x];
+}
+
+?>
